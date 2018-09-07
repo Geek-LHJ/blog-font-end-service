@@ -24,7 +24,6 @@
           :disabled="true"
           clearable>
         </el-input>
-
         <el-input
           class="content icon"
           v-model=item.icon

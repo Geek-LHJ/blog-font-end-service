@@ -1,4 +1,3 @@
-
 let express = require('express');
 let router = express.Router();
 
@@ -6,7 +5,6 @@ let User = require('../models/user');
 let Category = require('../models/category');
 let Content = require('../models/content');
 let Site = require('../models/site');
-
 
 // 数据的统一返回格式
 let responseData;
